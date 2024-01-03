@@ -1,14 +1,14 @@
 {
     "name": "NeoSwap Test Collection",
     "description": "Collection for testing Neoswap",
-    "image": "XXXX",
+    "image": "https://raw.githubusercontent.com/biboux-neoswap/test-metadata/main/neoswaplogo.webp",
     "attributes": [
     ],
     "properties": {
         "files": [
             {
                 "type": "image/png",
-                "uri": "XXX"
+                "uri": "https://raw.githubusercontent.com/biboux-neoswap/test-metadata/main/neoswaplogo.webp"
             }
         ]
     }
