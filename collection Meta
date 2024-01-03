@@ -1,0 +1,15 @@
+{
+    "name": "NeoSwap Test Collection",
+    "description": "Collection for testing Neoswap",
+    "image": "XXXX",
+    "attributes": [
+    ],
+    "properties": {
+        "files": [
+            {
+                "type": "image/png",
+                "uri": "XXX"
+            }
+        ]
+    }
+}
