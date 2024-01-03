@@ -1,14 +1,14 @@
 {
-    "name": "Open Solmap",
-    "symbol": "open_solmap",
-    "image": "https://arweave.net/9brFB9GaZmW5vmbIJk7sFEyiq5q0xHQAu771dDk-IV4",
-    "description": "Solmaps give you the power of digital ownership over a plot of Solana and freedom to build unconstrained in the context of a consensus and community-driven project.",
+    "name": "[DEVNET] Neoswap PNFT",
+    "symbol": "NSPNFT",
+    "image": "https://raw.githubusercontent.com/biboux-neoswap/test-metadata/main/neoswaplogo.webp",
+    "description": "PNFT from Neoswap Devnet collection for testing",
     "external_url": "",
     "attributes": [],
     "properties": {
         "files": [
             {
-                "uri": "https://arweave.net/9brFB9GaZmW5vmbIJk7sFEyiq5q0xHQAu771dDk-IV4",
+                "uri": "https://raw.githubusercontent.com/biboux-neoswap/test-metadata/main/neoswaplogo.webp",
                 "type": "image/jpeg"
             }
         ],
