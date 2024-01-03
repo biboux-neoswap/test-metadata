@@ -1,0 +1,17 @@
+{
+    "name": "[DEVNET] Neoswap PNFT",
+    "symbol": "NSPNFT",
+    "image": "https://raw.githubusercontent.com/biboux-neoswap/test-metadata/main/neoswaplogo.webp",
+    "description": "PNFT from Neoswap Devnet collection for testing",
+    "external_url": "",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/biboux-neoswap/test-metadata/main/neoswaplogo.webp",
+                "type": "image/jpeg"
+            }
+        ],
+        "category": "image"
+    }
+}
