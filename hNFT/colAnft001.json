@@ -1,0 +1,24 @@
+{
+    "name": "[dev] HNFT A 001",
+    "symbol": "HNA001",
+    "description": "col A hybrid 001",
+    "seller_fee_basis_points": 400,
+    "external_url": "https://neoswap.xyz",
+    "image": "https://imgur.com/mPhB6f7.png",
+    "attributes": [],
+    "properties": {
+        "creators": [
+            {
+                "address": "8zeXtUMZ5XsN8pWsBY95T1FiYm1mhqrf2F5ZkfB6Rjo9",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "https://imgur.com/mPhB6f7.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}
